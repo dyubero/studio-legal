@@ -14,3 +14,4 @@ p, li { max-width: 65ch; }
 .meta { color: var(--muted); margin: 0 0 28px; }
 a { color: var(--accent); }
 nav { display: flex; gap: 18px; flex-wrap: wrap; margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--line); font-size: 15px; }
+.links { margin: -12px 0 28px; font-size: 15px; }
